@@ -108,5 +108,5 @@ silahkan mampir ke komunitas kami
 
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://chat.whatsapp.com/DrqZxEeI8v9H83ynYvkVOP)
 
-[![WhatsApp channel](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb0YWvYJ3jusF2nk9U1P)
+[![WhatsApp channel](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb2mq0Q8F2pGE6Swrd0a)
 
