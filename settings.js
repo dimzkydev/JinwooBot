@@ -10,8 +10,8 @@ const config = {
     author: "🐾 Dimzkydev 🐾", 
   },
   id: {
-    newsletter: "120363388655497053@newsletter", 
-    group: "120363370515588374@g.us" 
+    newsletter: "120363372492305881@newsletter", 
+    group: "120363301700764553@g.us" 
   },
   messages: {
     wait: "> ⏳ *Mohon tunggu sebentar*... Kami sedang memproses permintaan Anda, harap bersabar ya!", 
