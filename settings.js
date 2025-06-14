@@ -1,13 +1,13 @@
 const fs = require("node:fs");
 
 const config = {
-  owner: ["6282114275683", "6281910094713"],
-  name: "- NekoBot - Simple WhatsApp bot",
+  owner: ["6288233189302", "6287782339362"],
+  name: "- JinwooBot - Simple WhatsApp bot",
   sessions: "sessions",
   prefix: [".", "?", "!"], // Tambahkan prefix sesuai kebutuhan
   sticker: {
-    packname: "✨ NekoPack ✨", 
-    author: "🐾 AxellNetwork 🐾", 
+    packname: "✨ JinwooPack ✨", 
+    author: "🐾 Dimzkydev 🐾", 
   },
   id: {
     newsletter: "120363388655497053@newsletter", 
