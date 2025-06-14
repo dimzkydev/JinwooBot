@@ -1,36 +1,36 @@
 ![Logo](https://files.catbox.moe/obf6o0.jpg)
 
-**😼 NekoBot | 1.7.0** | ***create by AxellNetwork***
+**😼 JinwooBot | 1.7.0** | ***create by DimzkyDev***
 
 
 ```> Simple WhatsApp bot Using Library Baileys```
 
 ```javascript
 {
-  message: Message { conversation: '>_ Welcome to NekoBot' },
+  message: Message { conversation: '>_ Welcome to JinwooBot' },
   type: 'conversation',
-  msg: '>_ Welcome to NekoBot',
+  msg: '>_ Welcome to JinwooBot',
   isMedia: false,
   key: {
-    remoteJid: '6285165556936@s.whatsapp.net',
-    participant: '6285165556936@s.whatsapp.net',
+    remoteJid: '6288233189302@s.whatsapp.net',
+    participant: '6288233189302@s.whatsapp.net',
     fromMe: false,
     id: '5780C33F89C0BE600B6D71DF79C4FC02'
   },
-  cht: '6285165556936@s.whatsapp.net',
+  cht: '6288233189302@s.whatsapp.net',
   fromMe: false,
   id: '5780C33F89C0BE600B6D71DF79C4FC02',
   device: 'android',
   isBot: false,
   isGroup: false,
-  participant: '6285165556936@s.whatsapp.net',
-  sender: '6285165556936@s.whatsapp.net',
+  participant: '6288233189302@s.whatsapp.net',
+  sender: '6288233189302@s.whatsapp.net',
   mentions: [],
-  body: '>_ Welcome to NekoBot',
+  body: '>_ Welcome to JinwooBot',
   prefix: '',
   command: '>_',
-  args: [ 'Welcome', 'to', 'NekoBot' ],
-  text: 'Welcome to NekoBot',
+  args: [ 'Welcome', 'to', 'JinwooBot' ],
+  text: 'Welcome to JinwooBot',
   isOwner: true,
   download: [AsyncFunction (anonymous)]
 }
@@ -41,12 +41,12 @@
 const fs = require('node:fs');
 
 const config = {
-    owner: ["6285215909004"],
-    name: "- nekoBot - Simple WhatsApp bot",
+    owner: ["6288233189302"],
+    name: "- JinwooBot - Simple WhatsApp bot",
     sessions: "sessions",
     sticker: {
       packname: "Made by ",
-      author: "nekoBot"
+      author: "JinwooBot"
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
@@ -54,7 +54,7 @@ const config = {
       premium: "*( Denied )* Fitur ini khusus user premium",
       group: "*( Denied )* Fitur ini khusus group",
    },
-   database: "neko-db",
+   database: "jinwoo-db",
    tz: "Asia/Jakarta"
 }
 
